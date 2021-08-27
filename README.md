@@ -1,18 +1,18 @@
 # Money Space
-Good Money Management is an important life skill to have, so that's why I took the initiative to make my very own Expense Tracker using Reactjs and Local Browser Storage.
+Good Money Management is an extremely important life skill to have, so that's why I took the initiative to make my very own Expense Tracker using Reactjs and Local Browser Storage.
 
 With Money Space, you can add/remove your monthly expenses with ease. This app uses Local Browser Session Storage, so it won't clear the data upon session refresh. The purpose of this project creation was so that I can get in more practice when it comes to working with React Hooks and SCSS. This application is fully functional. 
 
-Day five of trying to code in React on my own was a success. I completed it with the following: React, JavaScript, HTML5, CSS3, SCSS and ReactStrap.
-
-## Video Preview
-
+Day six of trying to code in React on my own was a success. I completed it with the following: React, JavaScript, HTML5, CSS3, SCSS and ReactStrap.
 
 ## Main Display
+![screencapture-localhost-3000-2021-08-27-18_04_24](https://user-images.githubusercontent.com/87696858/131156486-aad96816-237a-4bdb-9d5b-f0b7925973f5.png)
 
+## Upon Adding Expense
+![screencapture-localhost-3000-2021-08-27-18_04_37](https://user-images.githubusercontent.com/87696858/131156540-9f4f2b25-ae6e-4981-bf71-7d4c208ae93f.png)
 
-## Upon Compression
-
+## Upon Clearing Expenses
+![screencapture-localhost-3000-2021-08-27-18_04_44](https://user-images.githubusercontent.com/87696858/131156506-3e998111-f590-4bd7-822c-c2827d2f7d0c.png)
 
 # Getting Started with Create React App
 
